@@ -1,0 +1,6 @@
+pyinstaller
+pygame
+python-dotenv
+asyncio
+aiogram
+openai
