@@ -1,5 +1,7 @@
 # created by virtualenv automatically
 
+__pycache__/
+*/__pycache__/
 .env
 .venv
 
